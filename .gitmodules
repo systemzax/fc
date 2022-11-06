@@ -7,3 +7,6 @@
 [submodule "libraries/ff"]
 	path = libraries/ff
 	url = https://github.com/AntelopeIO/libff
+[submodule "libraries/bls-signatures"]
+	path = libraries/bls-signatures
+	url = https://github.com/Chia-Network/bls-signatures
